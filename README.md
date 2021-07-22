@@ -62,7 +62,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU/
+git clone https://github.com/SeriesZone101/Aria-Mirror-Bot/
 cd slam_aria_mirror_bot_HEROKU
 ```
 
@@ -238,5 +238,5 @@ Thanks to:
 - [iamLiquidX](https://github.com/iamLiquidX/) for Speedtest module
 - [ydner](https://github.com/ydner/) for Usage module
 - [breakdowns](https://github.com/breakdowns) for main repo
-- [ayush](https://github.com/ayushteke) for nothing
+- [ayush](https://t.me/DeepakV111) 
 
