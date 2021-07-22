@@ -238,5 +238,5 @@ Thanks to:
 - [iamLiquidX](https://github.com/iamLiquidX/) for Speedtest module
 - [ydner](https://github.com/ydner/) for Usage module
 - [breakdowns](https://github.com/breakdowns) for main repo
-- [ayush](https://t.me/DeepakV111) 
+- [joey](https://t.me/DeepakV111) 
 
