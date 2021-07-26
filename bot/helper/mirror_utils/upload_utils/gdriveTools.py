@@ -620,7 +620,7 @@ class GoogleDriveHelper:
 
             for content in self.telegraph_content :
                 self.path.append(Telegraph(access_token=telegraph_token).create_page(
-                                                        title = 'SRIESZONE',
+                                                        title = 'SERIESZONE',
                                                         author_name='SERIESZONE',
                                                         author_url='https://t.me/serieszOne3',
                                                         html_content=content
