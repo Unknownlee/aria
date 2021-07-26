@@ -169,7 +169,7 @@ class GoogleDriveHelper:
         # File body description
         file_metadata = {
             'name': file_name,
-            'description': 'Uploaded by AT_BOTS',
+            'description': 'Uploaded by @serieszOne3',
             'mimeType': mime_type,
         }
         try:
@@ -535,9 +535,9 @@ class GoogleDriveHelper:
                     content += f'<b> | <a href="https://telegra.ph/{self.path[nxt_page]}">Next</a></b>'
                     nxt_page += 1
             Telegraph(access_token=telegraph_token).edit_page(path = self.path[prev_page],
-                                 title = 'AT_BOTs',
-                                 author_name='AT_BOTs',
-                                 author_url='https://t.me/AT_BOTs',
+                                 title = 'SERIESZONE',
+                                 author_name='SERIESZONE',
+                                 author_url='https://t.me/serieszOne3',
                                  html_content=content)
         return
 
@@ -620,9 +620,9 @@ class GoogleDriveHelper:
 
             for content in self.telegraph_content :
                 self.path.append(Telegraph(access_token=telegraph_token).create_page(
-                                                        title = 'AT_BOTs',
-                                                        author_name='AT_BOTs',
-                                                        author_url='https://t.me/AT_BOTs',
+                                                        title = 'SRIESZONE',
+                                                        author_name='SERIESZONE',
+                                                        author_url='https://t.me/serieszOne3',
                                                         html_content=content
                                                         )['path'])
 
